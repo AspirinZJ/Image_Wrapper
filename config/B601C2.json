@@ -1,0 +1,16 @@
+[
+    {
+        "calibrated_date":"Mar 21, 2021",
+        "camera_name":"B601C2",
+        "manufacture_date":"Mar 21, 2021",
+        "vendor":"All-Seeing Eye Technology"
+    },
+    {
+        "bottom_cutoff":1.4,
+        "center_x":909,
+        "center_y":567,
+        "distance":420,
+        "raw_resolution":[1920,1080],
+        "top_cutoff":20
+    }
+]

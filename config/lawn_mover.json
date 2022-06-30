@@ -1,0 +1,12 @@
+{
+    "current_camera" : "B601E1",
+    "workspace" : "/media/jackzhang/data/cv_perception/",
+
+    "camera_record_res" : [1920, 1080],
+    "display_ratio":1,
+
+    "dump_path" : "/home/jackzhang/",
+    "camera_dump": 0,
+    "imu_dump" : 0,
+    "gps_dump" : 0
+}
